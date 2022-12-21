@@ -10,3 +10,5 @@
 Moldova, Chisinau
 
 [Full Resume](https://github.com/a-reznic/resume)
+
+![](https://komarev.com/ghpvc/?username=a-reznic)
