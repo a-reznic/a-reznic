@@ -1,4 +1,4 @@
-# Alexandru Reznic - Mobile Software Developer
+# Alexandru Reznic - Senior Android Developer
  
 * Contacts:
     * reznic.a@gmail.com
@@ -7,7 +7,7 @@
     * https://linkedin.com/in/reznic-a
     * https://stackoverflow.com/users/795616/reznic
 
-Moldova, Chisinau
+Romania
 
 [Full Resume](https://github.com/a-reznic/resume)
 
